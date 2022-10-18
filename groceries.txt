@@ -1,0 +1,7 @@
+My groceries list
+
+1. Milk
+2. Bread
+3. Butter
+4. Sugar
+5. Tea Leaves
