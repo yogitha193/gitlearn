@@ -5,3 +5,6 @@ My groceries list
 3. Butter
 4. Sugar
 5. Tea Leaves
+6. Fish
+7. Chicken
+8. Eggs
